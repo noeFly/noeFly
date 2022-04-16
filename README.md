@@ -1,4 +1,4 @@
-![](https://github-profile-trophy.vercel.app/?username=FlySky-ovo&theme=darkhub)
+![](https://github-profile-trophy.vercel.app/?username=FlySky-ovo&theme=darkhub&no-frame=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FlySky-ovo&show_icons=true&theme=tokyonight)
 
