@@ -3,7 +3,7 @@
 
 [![](https://github-profile-trophy.vercel.app/?username=FlySky-ovo&theme=darkhub&no-frame=true&row=1&column=7)](https://www.cFSovo.tk)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlySky-ovo&hide=SCSS,CSS,JavaScript&layout=compact)](https://www.cFSovo.tk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlySky-ovo&hide=SCSS,CSS,JavaScript&layout=compact&locale=cn)](https://www.cFSovo.tk)
 
 ***
 <h1 align="center">一些小專案</h1>
