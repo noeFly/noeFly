@@ -56,4 +56,4 @@
 
 
 
-<img src="https://raw.githubusercontent.com/FlySky-ovo/FlySky-ovo/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FlySky-ovo/FlySky-ovo/37b97336b4dd5e0ab69c7d85a4ccd0723a334c4c/snake.svg" alt="Snake animation" />
