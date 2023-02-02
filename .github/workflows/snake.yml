@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: 生成 GitHub 動態的蛇蛇動畫
 
 on:
   schedule: # execute every 24 hours
@@ -15,14 +15,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: generate snake.svg
+      - name: 生成 snake.svg。
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
 
-      - name: push snake.svg to the output branch
+      - name: 將 snake.svg 推送到 output 分支。
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
